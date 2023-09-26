@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hira/static/css/main.c05d4fdf.css",
+    "main.js": "/hira/static/js/main.8ecd1fa5.js",
+    "static/js/787.719ec76d.chunk.js": "/hira/static/js/787.719ec76d.chunk.js",
+    "index.html": "/hira/index.html",
+    "main.c05d4fdf.css.map": "/hira/static/css/main.c05d4fdf.css.map",
+    "main.8ecd1fa5.js.map": "/hira/static/js/main.8ecd1fa5.js.map",
+    "787.719ec76d.chunk.js.map": "/hira/static/js/787.719ec76d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c05d4fdf.css",
+    "static/js/main.8ecd1fa5.js"
+  ]
+}
